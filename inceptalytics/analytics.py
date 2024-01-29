@@ -14,7 +14,7 @@ from sklearn.metrics import cohen_kappa_score
 
 from inceptalytics.utils import extend_layer_name, annotation_info_from_xmi_zip, source_files_from_xmi_zip, get_dtype, \
     confusion_matrix, percentage_agreement, SENTENCE_TYPE_NAME, zero_diag_cm_df
-from inceptalytics.utils import gamma_agreement, construct_feature_path
+#from inceptalytics.utils import gamma_agreement, construct_feature_path
 
 
 class Project:
